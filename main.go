@@ -1,10 +1,4 @@
-package main
- 
-import (
-    "errors"
-    "fmt"
-    "log"
-    "time"
+package ma
 )
  
 type TransportMethod interface {
